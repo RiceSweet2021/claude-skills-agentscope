@@ -1,6 +1,6 @@
 # Claude Skills
 
-Collection of custom skills for [Claude Code](https://claude.ai/code).
+Collection of custom agentscope related coding skills for [Claude Code](https://claude.ai/code).
 
 ## Overview
 
